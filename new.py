@@ -3,8 +3,12 @@
 ##age = 2022 - year
 ##print("Age: "+str(age))
 
-print("Enter two numbers")
-num1 = int(input("First Number: "))
-num2 = int(input("Second Number: "))
-total = num1 + num2
-print("Total: "+str(total))
+##print("Enter two numbers")
+##num1 = int(input("First Number: "))
+##num2 = int(input("Second Number: "))
+##total = num1 + num2
+##print("Total: "+str(total))
+
+
+for i in range(0,5):
+    print("JR")
